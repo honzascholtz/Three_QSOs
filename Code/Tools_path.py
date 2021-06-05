@@ -1,1 +1,0 @@
-MyPATH = '/Users/jansen/Google Drive/MyPython/QSO_publish/Work_folder/'
