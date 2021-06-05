@@ -918,7 +918,7 @@ def stack_sky(storage, Band,plot, spe_ma=np.array([], dtype=bool), expand=0):
     storage['Stacked_sky'] = stacked_sky
     
     
-    np.savetxt(ph.MyPATH+ID+'_Skyline_mask.txt', sky_clipped)
+    #np.savetxt(ph.MyPATH+ID+'_Skyline_mask.txt', sky_clipped)
     
 
     
