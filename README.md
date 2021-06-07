@@ -73,7 +73,8 @@ Work_folder/Results_storage/Spectrums/Regions/* Storage of the regional spectra 
 
 Work_folder/Results_storage/Sub_qso_map_hal/* Map of the narrow Halpha emission after collapsing the residual cube from subtracting the BLR and continuum only
 
-Work_folder/Results_storage/
+Work_folder/Results_storage/* PSF_sub_smt.txt - Narrow Halpha map with PSF subtracted
+
 Work_folder/Results_storage/
 Work_folder/Results_storage/
 
