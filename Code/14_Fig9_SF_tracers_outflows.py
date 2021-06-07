@@ -273,8 +273,8 @@ for i in itere:
 # =============================================================================
 #     ALMA Position
 # =============================================================================
-    Img = pyfits.getdata(ph.MyPATH+'ALMA/Final_set/'+ID+'_l_clean.pbcor.fits')[0,0,:,:]
-    ALM_header = pyfits.getheader(ph.MyPATH+'ALMA/Final_set/'+ID+'_l_clean.pbcor.fits')  
+    Img = pyfits.getdata(ph.MyPATH+'ALMA/Final_set/new/'+ID+'_l_clean.pbcor.fits')[0,0,:,:]
+    ALM_header = pyfits.getheader(ph.MyPATH+'ALMA/Final_set/new/'+ID+'_l_clean.pbcor.fits')  
     
     Ra= New['RA'][i]
     Dec = New['DEC'][i]
