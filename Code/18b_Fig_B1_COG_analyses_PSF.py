@@ -78,7 +78,6 @@ ylims['XID_2028']= (-0.06,0.15)
 lims_hal={'HB89': np.array([-9,14,-11,12])}
 lims_hal['2QZJ'] = np.array([-8,10,-8,10])
 lims_hal['LBQS'] = np.array([-10,10,-8,12])
-lims_hal['XID_2028'] = np.array([-9,13,-9,13])
 
 
 column = 0

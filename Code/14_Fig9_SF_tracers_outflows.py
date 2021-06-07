@@ -81,9 +81,6 @@ lims['2QZJ'] = np.array([-20,20,-20,20])
 lims['LBQS'] = np.array([-10,10,-8,12])
 
 
-lims['XID_2028'] = np.array([-9,13,-9,13])
-
-
 # IFU PSF info. Locations 
 IFU_psfs = {'HB89': np.array([-1.1,-0.6,-0.08])/3600}
 IFU_psfs['2QZJ'] = np.array([-0.8,-0.7, -0.1 ])/3600

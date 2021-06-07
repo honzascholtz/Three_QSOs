@@ -66,8 +66,7 @@ Sample = Table.read(ph.MyPATH+'Four_Quasars.fits')
 Hal_size={'HB89': np.array(['0.1', '1'], dtype=str)}
 Hal_size['LBQS'] = np.array(['0.25', '1'], dtype=str)
 Hal_size['2QZJ'] = np.array(['0.2', '1'], dtype=str)
-Hal_size['XID_2028'] = np.array(['0.2', '1'], dtype=str)
-   
+
 itere=np.array([0,1,2])
 
 Hal = True
