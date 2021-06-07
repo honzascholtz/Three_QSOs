@@ -1,4 +1,4 @@
-# The impact of ionised outflows from z$\sim$2.5 quasars is not through instantaneous in-situ quenching: the evidence from ALMA and VLT/SINFONI
+# The impact of ionised outflows from z~2.5 quasars is not through instantaneous in-situ quenching: the evidence from ALMA and VLT/SINFONI
 This is code to analyze the Halpha, [OIII] and FIR emission of three QSOs - 2QZJ002830.4-2817, LBQS0109+0213 and HB89 0329-385 from work:
 
 The impact of ionised outflows from z$\sim$2.5 quasars is not through instantaneous in-situ quenching: the evidence from ALMA and VLT/SINFONI
