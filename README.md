@@ -20,6 +20,7 @@ I have included all the by-products so you can run any scripts and it should gen
 This code has been tested on Python 3.7, numpy 1.15.3, scipy 1.2.1. Preliminary testing suggested that the code will NOT work with numpy 1.16.0 or later.
 
 
+
 #Description of the products:
 
 # ALMA data
@@ -54,9 +55,13 @@ Work_folder/Catalogues/ALPAKA_XMM - results from the ALPAKA survey cross matched
 # SINFONI DATA
 Work_folder/SINFONI/* H & K SINFONI cubes
 
+NOTE: 
+Cubes HB8903_K.fits and LBQS0109_K.fits are taken from work by Carniani et al. 2016 and can be downloaded at: https://cdsarc.unistra.fr/viz-bin/cat/J/A+A/591/A28
+Other cubes have been downloaded from SINFONI archive and reduced for this work. 
+
 Work_folder/Sub_QSO/* Cubes with subtracted BLR and continuum components as described in the Appendix 
 
-# RESULTS_storage - Code products
+# When the code is succesfully ran, the following products will be generated:  RESULTS_storage - Code products
 
 Work_folder/Results_storage/Growth/* Curves-of-growth results stored
 
