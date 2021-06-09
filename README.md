@@ -22,10 +22,14 @@ This code has been tested on Python 3.7, numpy 1.15.3, scipy 1.2.1. Preliminary 
 
 Description of the products:
 
+# ALMA data
+
 Work_folder/ALMA/Final_set/new/* - Imaged ALMA band 7 continuum data at natural resolution
 
 Work_folder/ALMA/UV_data/* - Collapsed uv-visibiities for each object after subtracting any other sources in the field
 
+
+# CATALOGUES 
 
 Work_folder/Catalogues/Chains/* - Result of the FortesFit MCMC chains
 
@@ -47,11 +51,12 @@ Work_folder/Catalogues/QSO_shen - QSO results from Shen+04
 
 Work_folder/Catalogues/ALPAKA_XMM - results from the ALPAKA survey cross matched with XMM catalogue
 
-
+# SINFONI DATA
 Work_folder/SINFONI/* H & K SINFONI cubes
 
 Work_folder/Sub_QSO/* Cubes with subtracted BLR and continuum components as described in the Appendix 
 
+# RESULTS_storage - Code products
 
 Work_folder/Results_storage/Growth/* Curves-of-growth results stored
 
@@ -75,8 +80,10 @@ Work_folder/Results_storage/Sub_qso_map_hal/* Map of the narrow Halpha emission 
 
 Work_folder/Results_storage/* PSF_sub_smt.txt - Narrow Halpha map with PSF subtracted
 
-Work_folder/Results_storage/
-Work_folder/Results_storage/
+# GRAPHS
+
+Work_folder/Results_storage/Graphs/
+Work_folder/Results_storage/Graphs/
 
 
 
